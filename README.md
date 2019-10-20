@@ -10,6 +10,7 @@ Nickless的个人博客
 
 ### 最新
 
+* [Spring Boot学习之Hello World](http://www.xt3.club/articles/2019/10/19/1571498179147.html)
 * [我在 GitHub 上的开源项目](http://www.xt3.club/my-github-repos)
 * [世界，你好！](http://www.xt3.club/hello-solo)
 
